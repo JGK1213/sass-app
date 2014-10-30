@@ -44,3 +44,6 @@ gem 'bcrypt-ruby', '~> 3.0.0'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# heroku maintains this manifesto, helps keep app compliant, pre-compiling and stdout 
+gem 'rails_12factor'
